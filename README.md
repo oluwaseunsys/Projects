@@ -1,0 +1,1 @@
+MY project changes text to emoji using their text equivalent.
